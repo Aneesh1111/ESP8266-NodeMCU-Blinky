@@ -1,2 +1,2 @@
 # ESP8266-NodeMCU-Blinky
-Make the LEDs Blink on the ESP8266 Node MCU
+Making the LEDs Blink on the ESP8266-NodeMCU using PlatformIO VS code.
